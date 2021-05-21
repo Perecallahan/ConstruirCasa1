@@ -13,8 +13,12 @@ public class Git {
   /**
    * Crear proyecto en Github, coger url del proyecto vacío
    * 
-	En Netbeans, sobre proyecto, Versioning→ initialize Git repository…
+	[SALTAR]En Netbeans, sobre proyecto, Versioning→ initialize Git repository…
+  * 
+  * 
 		De nuevo, ahora da opción Git→ Commit
+    * 
+    * TEAM --> retome --> push
 	…. (faltan pasos)
 
    */
